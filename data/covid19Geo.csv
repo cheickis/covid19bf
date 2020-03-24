@@ -1,0 +1,14 @@
+region,departement,cas,lieu,latitude,longitude,couleur
+Centre,Ouagadougou,14,Centre hospitalier national ,12.36566,-1.53388,#ffd427ff
+Centre-Est,Tenkodogo,19,CHR de Tenkodogo,11.78,-0.36972,orange
+Centre-Nord,Kaya,1,CHR de Kaya,13.09167,-1.08444,#e5ff80ff
+Centre-Ouest,Koudougou,,CHR de Koudougou,12.25263,-2.36272,
+Centre-Sud,Manga,,CHR de Manga,11.66361,-1.07306,
+Est,Fada N'gourma,,CHR de Fada N'gourma,12.06157,0.35843,
+Hauts-Bassins,Bobo Dioulasso,,CHR de Bobo Dioulasso,11.1833326,-4.2833322,
+Nord,Ouahigouya,,CHR de Ouahigouya,13.58278,-2.42158,
+Plateau-Central,Ziniaré,,CHR de Ziniaré,12.58186,-1.2971,
+Sahel,Dori,,CHR de Dori,14.0354,-0.0345,
+Sud-Ouest,Gaou,,CHR de Gaou,10.29917,-3.25083,
+Cascades,Banfora,,CHR de Banfora,10.63333,-4.76667,
+Boucle du Mouhoun,Dedougou,,CHR de Dedougou,12.4666648,-3.4666648,
