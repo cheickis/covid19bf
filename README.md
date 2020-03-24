@@ -16,7 +16,7 @@ Tableau de bord pour suivre l'évolution du covid19 au Burkina Faso
   Tapez la commande suivante sur votre invite de commandes
 
   ```
-  git clone https://github.com/genova/covid19.git
+  git clone https://github.com/cheickis/covid19bf.git
   cd covid19
   npm install
   ```
